@@ -1,0 +1,20 @@
+{
+  "stage": "ORS ACK presence only",
+  "rf_detections": 66,
+  "background_detections": 0,
+  "background_samples": 1572864,
+  "positive_pass": 576,
+  "positive_trials": 576,
+  "negative_pass": 38,
+  "negative_trials": 38,
+  "unit_tests_passed": 79,
+  "post_decode_periodicity_check_max_error_samples": 1,
+  "report_rf": "D:\\项目\\USRP\\ctc_lab\\artifacts\\20261020_162607_833859_ctc_ors_rf\\report.json",
+  "report_background": "D:\\项目\\USRP\\ctc_lab\\artifacts\\20261020_162605_714336_ctc_ors_background\\report.json",
+  "report_validation": "D:\\项目\\USRP\\ctc_lab\\artifacts\\20261020_162612_318680_ctc_ors_validation\\report.json",
+  "tx_status": "stopped",
+  "ack_type_decoded": false,
+  "data_triggered_reply": false,
+  "standard_ack_timing_verified": false,
+  "receiver_sha256": "858d19a251b3fd3de0c2fa2f33a3d827fa76ff35c50bf12b8f1b63f35cc1e7ea"
+}

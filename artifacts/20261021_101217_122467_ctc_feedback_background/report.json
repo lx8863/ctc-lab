@@ -1,0 +1,57 @@
+{
+  "frames": [],
+  "expected_statuses": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "matched_statuses": [],
+  "completed": true,
+  "negative_control": true,
+  "ack_type_decoded": true,
+  "data_triggered_reply": false,
+  "experiment": "ors-feedback",
+  "mode": "ORS-feedback-background",
+  "physical": true,
+  "transport_events": [
+    {
+      "stage": "types",
+      "attempt": 1,
+      "tx_enabled": false,
+      "physical": true,
+      "settings": {
+        "uri": "usb:1.5.5",
+        "sample_rate": 8000000,
+        "frequency_hz": 2430000000,
+        "channel": 0,
+        "tx_gain_db": -25,
+        "rx_gain_db": 20,
+        "loopback": 0,
+        "tx_bandwidth": 4000000,
+        "rx_bandwidth": 4000000
+      },
+      "capture_stats": [
+        {
+          "samples": 262144,
+          "rms": 3.1581995487213135,
+          "peak_component": 22.0,
+          "near_adc_full_scale_fraction": 0.0
+        },
+        {
+          "samples": 262144,
+          "rms": 5.535906791687012,
+          "peak_component": 37.0,
+          "near_adc_full_scale_fraction": 0.0
+        }
+      ],
+      "elapsed_seconds": 1.8654716000000917,
+      "simulation_drop_injected": false
+    }
+  ],
+  "status": "stopped",
+  "independent_nodes_verified": false,
+  "independent_ble_verified": false,
+  "authenticated_sender": false,
+  "limitation": "相位参考+序号+CRC8 的自定义 ORS 扩展；单板顺序 RF/电脑控制，非原论文逐行复现，非 192us 实时 ACK"
+}

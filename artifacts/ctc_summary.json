@@ -1,0 +1,14 @@
+{
+  "stage": "SDR BLE-to-802.15.4 CTC prototype",
+  "status": "stopped",
+  "all_work_under": "D:\\项目\\USRP\\ctc_lab",
+  "symbol_contexts_passed": 4096,
+  "target_symbols_passed": 16,
+  "simulation_frames_passed": 70,
+  "rf_target_fcs_pass": 5,
+  "rf_unique_target_frames": 3,
+  "independent_ble_confirmed": true,
+  "commodity_zigbee_confirmed": false,
+  "comprehensive_report": "D:\\项目\\USRP\\ctc_lab\\artifacts\\20261020_151122_128977_ctc_rf_revalidation\\report.json",
+  "report_markdown": "D:\\项目\\USRP\\ctc_lab\\CTC阶段报告.md"
+}

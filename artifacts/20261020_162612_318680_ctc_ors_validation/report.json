@@ -1,0 +1,5390 @@
+{
+  "experiment": "ors-validation",
+  "mode": "ORS-validation",
+  "seed_start": 91000,
+  "negative_seed": 92000,
+  "positive_trials": 576,
+  "positive_pass": 576,
+  "negative_trials": 38,
+  "negative_pass": 38,
+  "negative_total_samples": 916384,
+  "positives": [
+    {
+      "seed": 91000,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91001,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91002,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91003,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91004,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91005,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91006,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91007,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91008,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91009,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91010,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91011,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91012,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91013,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91014,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91015,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91016,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91017,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91018,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91019,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91020,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91021,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91022,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91023,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91024,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91025,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91026,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91027,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91028,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91029,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91030,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91031,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91032,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91033,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91034,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91035,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91036,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91037,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91038,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91039,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91040,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91041,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91042,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91043,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91044,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91045,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91046,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91047,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91048,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91049,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91050,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91051,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91052,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91053,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91054,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91055,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91056,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91057,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91058,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91059,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91060,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91061,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91062,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91063,
+      "snr_db": 12,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91064,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91065,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91066,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91067,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91068,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91069,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91070,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91071,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91072,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91073,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91074,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91075,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91076,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91077,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91078,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91079,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91080,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91081,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91082,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91083,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91084,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91085,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91086,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91087,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91088,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91089,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91090,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91091,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91092,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91093,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91094,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91095,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91096,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91097,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91098,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91099,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91100,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91101,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91102,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91103,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91104,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91105,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91106,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91107,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91108,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91109,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91110,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91111,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91112,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91113,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91114,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91115,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91116,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91117,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91118,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91119,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91120,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91121,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91122,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91123,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91124,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91125,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91126,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91127,
+      "snr_db": 12,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91128,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91129,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91130,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91131,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91132,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91133,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91134,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91135,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91136,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91137,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91138,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91139,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91140,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91141,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91142,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91143,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91144,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91145,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91146,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91147,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91148,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91149,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91150,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91151,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91152,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91153,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91154,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91155,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91156,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91157,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91158,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91159,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91160,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91161,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91162,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91163,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91164,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91165,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91166,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91167,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91168,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91169,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91170,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91171,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91172,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91173,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91174,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91175,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91176,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91177,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91178,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91179,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91180,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91181,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91182,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91183,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91184,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91185,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91186,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91187,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91188,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91189,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91190,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91191,
+      "snr_db": 12,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91192,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91193,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91194,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91195,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91196,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91197,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91198,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91199,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91200,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91201,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91202,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91203,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91204,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91205,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91206,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91207,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91208,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91209,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91210,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91211,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91212,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91213,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91214,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91215,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91216,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91217,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91218,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91219,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91220,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91221,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91222,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91223,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91224,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91225,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91226,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91227,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91228,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91229,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91230,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91231,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91232,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91233,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91234,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91235,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91236,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91237,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91238,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91239,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91240,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91241,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91242,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91243,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91244,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91245,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91246,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91247,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91248,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91249,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91250,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91251,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91252,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91253,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91254,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91255,
+      "snr_db": 20,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91256,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91257,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91258,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91259,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91260,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91261,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91262,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91263,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91264,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91265,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91266,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91267,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91268,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91269,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91270,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91271,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91272,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91273,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91274,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91275,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91276,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91277,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91278,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91279,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91280,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91281,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91282,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91283,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91284,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91285,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91286,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91287,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91288,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91289,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91290,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91291,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91292,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91293,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91294,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91295,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91296,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91297,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91298,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91299,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91300,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91301,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91302,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91303,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91304,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91305,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91306,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91307,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91308,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91309,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91310,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91311,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91312,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91313,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91314,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91315,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91316,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91317,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91318,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91319,
+      "snr_db": 20,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91320,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91321,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91322,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91323,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91324,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91325,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91326,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91327,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91328,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91329,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91330,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91331,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91332,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91333,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91334,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91335,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91336,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91337,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91338,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91339,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91340,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91341,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91342,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91343,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91344,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91345,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91346,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91347,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91348,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91349,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91350,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91351,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91352,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91353,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91354,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91355,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91356,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91357,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91358,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91359,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91360,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91361,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91362,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91363,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91364,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91365,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91366,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91367,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91368,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91369,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91370,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91371,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91372,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91373,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91374,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91375,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91376,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91377,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91378,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91379,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91380,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91381,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91382,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91383,
+      "snr_db": 20,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91384,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91385,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91386,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91387,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91388,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91389,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91390,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91391,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91392,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91393,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91394,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91395,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91396,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91397,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91398,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91399,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91400,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91401,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91402,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91403,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91404,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91405,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91406,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91407,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91408,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91409,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91410,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91411,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91412,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91413,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91414,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91415,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91416,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91417,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91418,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91419,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91420,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91421,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91422,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91423,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91424,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91425,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91426,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91427,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91428,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91429,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91430,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91431,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91432,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91433,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91434,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91435,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91436,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91437,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91438,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91439,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91440,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91441,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91442,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91443,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91444,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91445,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91446,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91447,
+      "snr_db": 30,
+      "cfo_hz": -50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91448,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91449,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91450,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91451,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91452,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91453,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91454,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91455,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91456,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91457,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91458,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91459,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91460,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91461,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91462,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91463,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91464,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91465,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91466,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91467,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91468,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91469,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91470,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91471,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91472,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91473,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91474,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91475,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91476,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91477,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91478,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91479,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91480,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91481,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91482,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91483,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91484,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91485,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91486,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91487,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91488,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91489,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91490,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91491,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91492,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91493,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91494,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91495,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91496,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91497,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91498,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91499,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91500,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91501,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91502,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91503,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91504,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91505,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91506,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91507,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91508,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91509,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91510,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91511,
+      "snr_db": 30,
+      "cfo_hz": 0,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91512,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91513,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91514,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91515,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91516,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91517,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91518,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91519,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91520,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91521,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91522,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91523,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91524,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91525,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91526,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91527,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91528,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91529,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91530,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91531,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91532,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91533,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91534,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91535,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91536,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91537,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91538,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91539,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91540,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91541,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91542,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91543,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": -20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91544,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91545,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91546,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91547,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 0.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91548,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91549,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91550,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91551,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 1.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91552,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91553,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91554,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91555,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 2.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91556,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91557,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91558,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91559,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 3.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91560,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91561,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91562,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91563,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 4.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91564,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91565,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91566,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91567,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 5.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91568,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91569,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91570,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91571,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 6.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91572,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91573,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91574,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    },
+    {
+      "seed": 91575,
+      "snr_db": 30,
+      "cfo_hz": 50000,
+      "clock_ppm": 20,
+      "fractional_offset": 7.37,
+      "passed": true,
+      "detections": 1
+    }
+  ],
+  "negatives": [
+    {
+      "label": "ble_zeros",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ble_ones",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ble_text",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ieee802154_zeros",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ieee802154_ones",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ieee802154_text",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "esb_zeros",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "esb_ones",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "esb_text",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ctc_zeros",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ctc_ones",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "ctc_text",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "tone_0",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "tone_12000",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "tone_50000",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "tone_1000000",
+      "samples": 24274,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_0",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_1",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_2",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_3",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_4",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_5",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_6",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_7",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_8",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_9",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_10",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_11",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_12",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_13",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_14",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_15",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_16",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_17",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_18",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "noise_19",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "silence",
+      "samples": 24000,
+      "false_detections": 0
+    },
+    {
+      "label": "impulse",
+      "samples": 24000,
+      "false_detections": 0
+    }
+  ],
+  "limitation": "Finite seeded synthetic tests; no universal false-alarm guarantee, ACK-type decision or paper-curve reproduction"
+}

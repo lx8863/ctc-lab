@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+scipy>=1.11,<2
+pytest>=8,<10
+pyadi-iio>=0.0.18,<1
+pylibiio==0.25

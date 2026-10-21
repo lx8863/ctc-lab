@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>CTC Lab · 跨技术通信实验台</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+<aside class="sidebar">
+  <a class="brand" href="/" aria-label="CTC Lab 首页"><span class="brand-icon">⌁</span><span>CTC<span class="brand-light"> / LAB</span></span></a>
+  <div class="workspace-label">SDR RESEARCH WORKSPACE</div>
+  <nav aria-label="主导航">
+    <a class="nav-item active" href="#overview"><span>◫</span>实验总览<span class="nav-count">01</span></a>
+    <a class="nav-item" href="#signal"><span>∿</span>信号与链路</a>
+    <a class="nav-item" href="#results"><span>▤</span>解码结果</a>
+    <a class="nav-item" href="#controls"><span>⚙</span>实验控制</a>
+  </nav>
+  <div class="side-line"></div>
+  <div class="side-heading">当前研究方向</div>
+  <div class="research-tag"><span class="dot teal"></span>BLE → IEEE 802.15.4</div>
+  <p class="side-note">从协议约束下的波形映射，<br>到可复现的射频证据。</p>
+  <div class="sidebar-bottom"><span class="local-icon">⌘</span><div>本地实验环境<small>仅此电脑可访问</small></div><span class="dot teal"></span></div>
+</aside>
+<main>
+  <header class="topbar"><div class="breadcrumbs">实验空间<span>/</span><b>跨技术通信</b></div><div class="top-actions"><span class="local-tag">LOCAL HOST</span><span id="clock">UTC+8</span><span class="avatar">LX</span></div></header>
+  <div class="content" id="overview">
+    <section class="page-heading"><div><div class="eyebrow">CROSS-TECHNOLOGY COMMUNICATION</div><h1>跨技术通信实验台<span class="version">SDR 原型</span></h1><p>让 BLE 发射波形，被 802.15.4 接收器理解。</p></div><div class="heading-actions"><a class="button ghost" href="/api/document">↧ 阶段报告</a><button class="button primary" id="quick-sim">▷ 运行仿真</button></div></section>
+    <div class="status-bar"><span id="tx-indicator" class="status-pill"><span class="dot"></span>发射未启动</span><span class="status-divider"></span><span id="device-status">SDR 尚未检测</span><span class="spacer"></span><span class="evidence-tag">历史验收记录</span><span id="evidence-date">—</span></div>
+    <section class="metrics" aria-label="已完成的验证"><article class="metric"><div class="metric-label">目标符号映射<span>01</span></div><div class="metric-value" id="metric-symbols">—</div><div class="metric-foot"><span class="check">✓</span>标准 DSSS 符号字典</div><div class="metric-line teal-line"></div></article><article class="metric"><div class="metric-label">相邻符号组合<span>02</span></div><div class="metric-value" id="metric-contexts">—</div><div class="metric-foot"><span class="check">✓</span>前驱 / 目标 / 后继</div><div class="metric-line teal-line"></div></article><article class="metric"><div class="metric-label">扰动仿真正确帧<span>03</span></div><div class="metric-value" id="metric-simulation">—</div><div class="metric-foot"><span class="check">✓</span>含噪声、频偏与时钟偏差</div><div class="metric-line blue-line"></div></article><article class="metric"><div class="metric-label">RF 目标载荷覆盖<span>04</span></div><div class="metric-value" id="metric-rf">—</div><div class="metric-foot"><span class="check">✓</span>正确载荷与 FCS 双重核对</div><div class="metric-line blue-line"></div></article></section>
+    <div class="main-grid">
+      <div class="left-column">
+        <section class="panel chain-panel" id="signal"><div class="panel-heading"><div><span class="section-number">01 /</span><h2>通信链路</h2></div><span class="badge muted">BLE 扩展广播 · LE 1M</span></div>
+          <div class="chain"><div class="chain-node"><span class="node-icon purple">01</span><b>目标数据</b><small>802.15.4 MAC + FCS</small></div><span class="chain-arrow">→</span><div class="chain-node"><span class="node-icon teal-bg">02</span><b>CTC 映射</b><small>符号搜索 · 逆白化</small></div><span class="chain-arrow">→</span><div class="chain-node"><span class="node-icon blue-bg">03</span><b>BLE 发射</b><small>组帧 · CRC · GFSK</small></div><span class="chain-arrow">→</span><div class="chain-node"><span class="node-icon amber-bg">04</span><b>目标帧恢复</b><small>差分 DSSS · FCS</small></div></div>
+          <div class="frequency-plan"><div><span class="small-dot purple-dot"></span>主广播 <b>2426</b><small>MHz</small><span>CH 38</span></div><span class="frequency-connector">AuxPtr · 600 μs →</span><div><span class="small-dot teal"></span>辅助广播 / 目标 <b>2430</b><small>MHz</small><span>CH 12 / CH 16</span></div></div>
+        </section>
+        <section class="panel spectrum-panel"><div class="panel-heading"><div><span class="section-number">02 /</span><h2>接收频谱</h2></div><span class="badge" id="spectrum-kind">加载 IQ</span></div><div class="spectrum-meta"><span id="spectrum-source">从保存的实际接收采样计算</span><span id="spectrum-rate">—</span></div><div class="chart-wrap" id="chart-wrap"><svg id="spectrum" role="img" aria-label="保存的接收 IQ 频谱" viewBox="0 0 800 228"></svg><div id="chart-tooltip" class="chart-tooltip" hidden></div><div id="chart-empty" class="empty" hidden>此实验未保存接收 IQ</div></div><div class="chart-footer"><span><i class="legend-dot"></i>相对峰值功率 / dB</span><span>保存记录，非实时频谱</span></div></section>
+      </div>
+      <aside class="right-column">
+        <section class="panel control-panel" id="controls"><div class="panel-heading"><div><span class="section-number">03 /</span><h2>实验控制</h2></div><span id="job-state" class="badge muted">就绪</span></div>
+          <div class="segmented" role="tablist" aria-label="实验模式"><button id="mode-sim" role="tab" aria-selected="true" class="selected">软件仿真</button><button id="mode-rf" role="tab" aria-selected="false">射频测试</button></div>
+          <form id="experiment-form"><div id="sim-fields"><label>信噪比 <span>dB</span><input id="snr" type="number" value="24" min="5" max="60" required></label><div class="field-pair"><label>频偏 <span>Hz</span><input id="cfo" type="number" value="12000" min="-100000" max="100000" required></label><label>时钟偏差 <span>ppm</span><input id="clock-ppm" type="number" value="10" min="-100" max="100" required></label></div></div>
+          <div id="rf-fields" hidden><div class="device-picker"><label>USB SDR<select id="device-uri"><option value="">请先检测板卡</option></select></label><button type="button" class="button ghost small" id="detect-device">检测</button></div><div class="field-pair"><label>TX 增益 <span>dB</span><input id="tx-gain" type="number" value="-25" min="-60" max="-10"></label><label>RX 增益 <span>dB</span><input id="rx-gain" type="number" value="20" min="0" max="50"></label></div><div class="field-pair"><label>限时发射 <span>s</span><input id="rf-seconds" type="number" value="5" min="0" max="60"></label><label>采集块数<input id="rf-blocks" type="number" value="4" min="1" max="6"></label></div><p class="rf-note">此操作会通过 TX1 实际发射。限时结束后先停发，再解码。</p></div>
+          <button class="button primary run-button" id="run-button" type="submit">▷ 开始仿真</button></form><button class="button stop-button" id="stop-button" disabled>■ 停止当前任务</button>
+          <div class="quick-actions"><button id="run-symbols">符号映射验证 ↗</button><button id="run-validation">70 帧扰动验证 ↗</button></div>
+        </section>
+        <section class="panel evidence-panel"><div class="panel-heading"><div><h2>验证边界</h2></div><span class="badge muted">研究原型</span></div><div class="evidence-row"><span class="check">✓</span><div>真实 BLE 芯片接收<small>Intel 蓝牙适配器，独立接收证据</small></div><span id="ble-proof" class="proof-status">—</span></div><div class="evidence-row"><span class="pending-icon">○</span><div>商品 Zigbee 芯片接收<small>当前接收端为 SDR 软件解码器</small></div><span class="pending-text">未验证</span></div><div class="boundary-note">循环发送与分块采集无法确定发包分母，当前不报告空口收包率。</div></section>
+      </aside>
+    </div>
+    <section class="panel results-panel" id="results"><div class="panel-heading"><div><span class="section-number">04 /</span><h2>实验记录与解码结果</h2></div><a id="download-report" class="text-link" href="/api/report">下载 JSON ↧</a></div><div class="results-toolbar"><div class="result-tabs" role="tablist" aria-label="结果分类"><button class="active" data-result-tab="frames">目标帧</button><button data-result-tab="ble">BLE 源包</button><button data-result-tab="logs">运行日志<span id="log-dot" class="log-dot" hidden></span></button></div><select id="report-picker" aria-label="选择实验记录"></select></div><div id="report-caption" class="report-caption">加载实际报告…</div><div id="result-body"></div><div class="results-bottom"><span id="result-footnote">数据来自保存的实验报告</span><span id="report-status">—</span></div></section>
+    <footer><span>CTC LAB <i>/</i> 本地跨技术通信实验环境</span><span>8 MSPS · AD9361 · Zynq-7010</span></footer>
+  </div>
+</main>
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="/app.js"></script>
+</body></html>

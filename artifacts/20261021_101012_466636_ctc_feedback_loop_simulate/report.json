@@ -1,0 +1,170 @@
+{
+  "completed": true,
+  "sequence": 73,
+  "attempt_count": 2,
+  "retransmissions": 1,
+  "rounds": [
+    {
+      "attempt": 1,
+      "pending_sequence": 73,
+      "data_fcs_pass": 1,
+      "received_data_frames": [
+        {
+          "psdu_hex": "418849fecaffff010048656c6c6f204354433db2",
+          "fcs_ok": true,
+          "frame_control": 34881,
+          "sequence": 73,
+          "mac_supported": true,
+          "pan": 51966,
+          "destination": 65535,
+          "source": 1,
+          "payload_hex": "48656c6c6f20435443",
+          "payload_text": "Hello CTC",
+          "receiver": "fixed-standard-differential-DSSS-31",
+          "sfd_sample": 8711,
+          "start_sample": 7687,
+          "end_sample": 14347,
+          "phase_bias_hz": 18284.56326179306,
+          "preamble_correlation": 0.5716315946271563,
+          "maximum_internal_chip_errors": 8,
+          "minimum_symbol_margin": 14
+        }
+      ],
+      "reply": {
+        "sequence": 73,
+        "status": 0,
+        "payload_hex": "48656c6c6f20435443",
+        "duplicate": false
+      },
+      "ack_frames": [],
+      "accepted_ack": null,
+      "outcome": "timeout",
+      "host_rx_return_to_ack_stage_ms": 37.584700000024895,
+      "elapsed_seconds": 0.04800210000030347,
+      "virtual_timeout_applied": true
+    },
+    {
+      "attempt": 2,
+      "pending_sequence": 73,
+      "data_fcs_pass": 1,
+      "received_data_frames": [
+        {
+          "psdu_hex": "418849fecaffff010048656c6c6f204354433db2",
+          "fcs_ok": true,
+          "frame_control": 34881,
+          "sequence": 73,
+          "mac_supported": true,
+          "pan": 51966,
+          "destination": 65535,
+          "source": 1,
+          "payload_hex": "48656c6c6f20435443",
+          "payload_text": "Hello CTC",
+          "receiver": "fixed-standard-differential-DSSS-31",
+          "sfd_sample": 8711,
+          "start_sample": 7687,
+          "end_sample": 14347,
+          "phase_bias_hz": 19890.851349291992,
+          "preamble_correlation": 0.5757472196298712,
+          "maximum_internal_chip_errors": 8,
+          "minimum_symbol_margin": 14
+        }
+      ],
+      "reply": {
+        "sequence": 73,
+        "status": 2,
+        "payload_hex": "48656c6c6f20435443",
+        "duplicate": true
+      },
+      "ack_frames": [
+        {
+          "start_sample": 971,
+          "end_sample": 7211,
+          "status": 2,
+          "status_text": "重传接收成功",
+          "sequence": 73,
+          "crc_ok": true,
+          "crc_hex": "8c",
+          "residual_cfo_hz": 11950.173387561385,
+          "minimum_pair_score": 0.9950426457365015,
+          "time_ms": 0.121375,
+          "capture_block": 0
+        }
+      ],
+      "accepted_ack": {
+        "start_sample": 971,
+        "end_sample": 7211,
+        "status": 2,
+        "status_text": "重传接收成功",
+        "sequence": 73,
+        "crc_ok": true,
+        "crc_hex": "8c",
+        "residual_cfo_hz": 11950.173387561385,
+        "minimum_pair_score": 0.9950426457365015,
+        "time_ms": 0.121375,
+        "capture_block": 0
+      },
+      "outcome": "confirmed",
+      "host_rx_return_to_ack_stage_ms": 32.853199999863136,
+      "elapsed_seconds": 0.0493572000000313,
+      "virtual_timeout_applied": false
+    }
+  ],
+  "unique_receiver_deliveries": 1,
+  "sent_hex": "48656c6c6f20435443",
+  "received_payload_matches": true,
+  "ack_type_decoded": true,
+  "data_triggered_reply": true,
+  "standard_ack_timing_verified": false,
+  "ack_timeout_seconds": 10,
+  "timeout_mode": "virtual_expiry_on_loss",
+  "experiment": "ors-feedback",
+  "mode": "ORS-feedback-loop-simulate",
+  "physical": false,
+  "transport_events": [
+    {
+      "stage": "data",
+      "attempt": 1,
+      "tx_enabled": true,
+      "physical": false,
+      "settings": {},
+      "capture_stats": [],
+      "elapsed_seconds": 0.006609600000047067,
+      "simulation_drop_injected": false
+    },
+    {
+      "stage": "ack",
+      "attempt": 1,
+      "tx_enabled": true,
+      "physical": false,
+      "settings": {},
+      "capture_stats": [],
+      "elapsed_seconds": 0.004194000000097731,
+      "simulation_drop_injected": true
+    },
+    {
+      "stage": "data",
+      "attempt": 2,
+      "tx_enabled": true,
+      "physical": false,
+      "settings": {},
+      "capture_stats": [],
+      "elapsed_seconds": 0.005587300000115647,
+      "simulation_drop_injected": false
+    },
+    {
+      "stage": "ack",
+      "attempt": 2,
+      "tx_enabled": true,
+      "physical": false,
+      "settings": {},
+      "capture_stats": [],
+      "elapsed_seconds": 0.004349899999851914,
+      "simulation_drop_injected": false
+    }
+  ],
+  "status": "stopped",
+  "independent_nodes_verified": false,
+  "independent_ble_verified": false,
+  "authenticated_sender": false,
+  "limitation": "相位参考+序号+CRC8 的自定义 ORS 扩展；单板顺序 RF/电脑控制，非原论文逐行复现，非 192us 实时 ACK"
+}

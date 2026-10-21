@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+artifacts/
+.publish-tools/
+# Local dependencies and copyrighted paper extracts stay on this computer.
+native/*.dll
+native/*.exe
+paper_review/gop_ack/paper_*.txt
+paper_review/gop_ack/*.png
+.env
+.env.*
+*.pem
+*.key

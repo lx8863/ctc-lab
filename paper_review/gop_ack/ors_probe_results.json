@@ -1,0 +1,34 @@
+{
+  "scope": "Noiseless mechanism/assumption audit; known windows; not paper performance reproduction",
+  "m": 15,
+  "phase_threshold_rad": 1.0,
+  "minimum_count_strictly_greater_than": 8,
+  "normalized_power_threshold": 0.1,
+  "fs": 64000000,
+  "offsets_per_wave": 64,
+  "aligned_phase": {
+    "total": 256,
+    "detected": 256,
+    "type_correct": 256,
+    "max_phase_difference_rad": 2.5633242703011112e-17
+  },
+  "unknown_phase_90_degrees": {
+    "total": 256,
+    "detected": 256,
+    "type_correct": 0,
+    "max_phase_difference_rad": 2.734577087991944e-17
+  },
+  "cfo_25khz": {
+    "total": 256,
+    "detected": 256,
+    "type_correct": 52,
+    "max_phase_difference_rad": 0.15707963267949007
+  },
+  "cfo_200khz": {
+    "total": 256,
+    "detected": 0,
+    "type_correct": 0,
+    "max_phase_difference_rad": 1.2566370614359208
+  },
+  "limitation": "No RF, channel calibration, acquisition, multipath or noise; power threshold differs from paper physical units"
+}

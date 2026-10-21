@@ -1,0 +1,171 @@
+{
+  "experiment": "ors-ack-presence",
+  "mode": "ORS-background",
+  "ack_present": false,
+  "detection_count": 0,
+  "detections": [],
+  "diagnostics": [
+    {
+      "capture_block": 0,
+      "noise_power": 8.962840235449104,
+      "settings": {
+        "repetitions": 15,
+        "phase_threshold_rad": 1.0,
+        "minimum_ors_strictly_greater_than": 8,
+        "power_ratio_threshold": 4.0,
+        "coherence_threshold": 0.9,
+        "tone_rejection_threshold": 0.8,
+        "oqpsk_shape_threshold": 0.94,
+        "lag_samples": 8,
+        "window_samples": 128,
+        "noise_estimator": "20th percentile power / -log(0.8); assumes idle noise exists",
+        "implementation": "phase-count + adaptive power + coherence + non-tone + OQPSK shape gate"
+      }
+    },
+    {
+      "capture_block": 1,
+      "noise_power": 4.481420117724551,
+      "settings": {
+        "repetitions": 15,
+        "phase_threshold_rad": 1.0,
+        "minimum_ors_strictly_greater_than": 8,
+        "power_ratio_threshold": 4.0,
+        "coherence_threshold": 0.9,
+        "tone_rejection_threshold": 0.8,
+        "oqpsk_shape_threshold": 0.94,
+        "lag_samples": 8,
+        "window_samples": 128,
+        "noise_estimator": "20th percentile power / -log(0.8); assumes idle noise exists",
+        "implementation": "phase-count + adaptive power + coherence + non-tone + OQPSK shape gate"
+      }
+    },
+    {
+      "capture_block": 2,
+      "noise_power": 4.481420117724551,
+      "settings": {
+        "repetitions": 15,
+        "phase_threshold_rad": 1.0,
+        "minimum_ors_strictly_greater_than": 8,
+        "power_ratio_threshold": 4.0,
+        "coherence_threshold": 0.9,
+        "tone_rejection_threshold": 0.8,
+        "oqpsk_shape_threshold": 0.94,
+        "lag_samples": 8,
+        "window_samples": 128,
+        "noise_estimator": "20th percentile power / -log(0.8); assumes idle noise exists",
+        "implementation": "phase-count + adaptive power + coherence + non-tone + OQPSK shape gate"
+      }
+    },
+    {
+      "capture_block": 3,
+      "noise_power": 4.481420117724551,
+      "settings": {
+        "repetitions": 15,
+        "phase_threshold_rad": 1.0,
+        "minimum_ors_strictly_greater_than": 8,
+        "power_ratio_threshold": 4.0,
+        "coherence_threshold": 0.9,
+        "tone_rejection_threshold": 0.8,
+        "oqpsk_shape_threshold": 0.94,
+        "lag_samples": 8,
+        "window_samples": 128,
+        "noise_estimator": "20th percentile power / -log(0.8); assumes idle noise exists",
+        "implementation": "phase-count + adaptive power + coherence + non-tone + OQPSK shape gate"
+      }
+    },
+    {
+      "capture_block": 4,
+      "noise_power": 4.481420117724551,
+      "settings": {
+        "repetitions": 15,
+        "phase_threshold_rad": 1.0,
+        "minimum_ors_strictly_greater_than": 8,
+        "power_ratio_threshold": 4.0,
+        "coherence_threshold": 0.9,
+        "tone_rejection_threshold": 0.8,
+        "oqpsk_shape_threshold": 0.94,
+        "lag_samples": 8,
+        "window_samples": 128,
+        "noise_estimator": "20th percentile power / -log(0.8); assumes idle noise exists",
+        "implementation": "phase-count + adaptive power + coherence + non-tone + OQPSK shape gate"
+      }
+    },
+    {
+      "capture_block": 5,
+      "noise_power": 4.481420117724551,
+      "settings": {
+        "repetitions": 15,
+        "phase_threshold_rad": 1.0,
+        "minimum_ors_strictly_greater_than": 8,
+        "power_ratio_threshold": 4.0,
+        "coherence_threshold": 0.9,
+        "tone_rejection_threshold": 0.8,
+        "oqpsk_shape_threshold": 0.94,
+        "lag_samples": 8,
+        "window_samples": 128,
+        "noise_estimator": "20th percentile power / -log(0.8); assumes idle noise exists",
+        "implementation": "phase-count + adaptive power + coherence + non-tone + OQPSK shape gate"
+      }
+    }
+  ],
+  "capture_stats": [
+    {
+      "samples": 262144,
+      "rms": 3.4809393882751465,
+      "peak_component": 16.0,
+      "near_adc_full_scale_fraction": 0.0
+    },
+    {
+      "samples": 262144,
+      "rms": 3.884361982345581,
+      "peak_component": 21.0,
+      "near_adc_full_scale_fraction": 0.0
+    },
+    {
+      "samples": 262144,
+      "rms": 3.997638463973999,
+      "peak_component": 20.0,
+      "near_adc_full_scale_fraction": 0.0
+    },
+    {
+      "samples": 262144,
+      "rms": 4.952983856201172,
+      "peak_component": 58.0,
+      "near_adc_full_scale_fraction": 0.0
+    },
+    {
+      "samples": 262144,
+      "rms": 2.628377914428711,
+      "peak_component": 20.0,
+      "near_adc_full_scale_fraction": 0.0
+    },
+    {
+      "samples": 262144,
+      "rms": 3.1197521686553955,
+      "peak_component": 18.0,
+      "near_adc_full_scale_fraction": 0.0
+    }
+  ],
+  "settings": {
+    "uri": "usb:1.5.5",
+    "sample_rate": 8000000,
+    "frequency_hz": 2430000000,
+    "channel": 0,
+    "tx_gain_db": -25,
+    "rx_gain_db": 20,
+    "loopback": 0,
+    "tx_bandwidth": 4000000,
+    "rx_bandwidth": 4000000
+  },
+  "channel_parameters": null,
+  "negative_control": true,
+  "tx_enabled": false,
+  "captured_samples": 1572864,
+  "sample_rate": 8000000,
+  "ack_type_decoded": false,
+  "data_triggered_reply": false,
+  "standard_ack_timing_verified": false,
+  "independent_ble_receiver_confirmed": false,
+  "packet_reception_ratio": null,
+  "limitation": "ORS 波形存在性实验；没有载荷/CRC/ACK 类型判决，不是实时数据回复闭环或完整论文复现"
+}
