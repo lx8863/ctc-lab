@@ -146,6 +146,10 @@ Windows libiio 0.25 及依赖的本机副本位于 `native/`，Python 绑定固�
 
 ## Star History
 
-[![Star History](docs/star-history.svg)](https://www.star-history.com/#lx8863/ctc-lab&Date)
-
-图表为 GitHub 实际数据快照，支持私有仓库，不向第三方图表服务提供访问令牌。可在 [Actions → Update Star History](https://github.com/lx8863/ctc-lab/actions/workflows/star-history.yml) 点击 **Run workflow** 更新；统计的是当前仍保留 Star 的用户及其标星时间，无法还原已取消的 Star。
+<a href="https://www.star-history.com/?repos=lx8863%2Fctc-lab&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lx8863/ctc-lab&amp;type=Date&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lx8863/ctc-lab&amp;type=Date" />
+    <img alt="CTC Lab Star History" src="https://api.star-history.com/svg?repos=lx8863/ctc-lab&amp;type=Date" />
+  </picture>
+</a>
