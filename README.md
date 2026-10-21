@@ -20,15 +20,17 @@
 
 **跨协议发送与解析：**输入 `Hello CTC`，由 BLE 波形承载目标数据，802.15.4 软件接收器恢复载荷，FCS 通过且内容一致。
 
-![跨协议发送与解析结果](docs/screenshots/ctc-decode.jpg)
+![跨协议发送与解析结果](docs/screenshots/ctc-decode.png)
 
 **接收频谱：**查看同一次仿真保存的 IQ，展示 2426 MHz 主广播与 2430 MHz 辅助广播的频谱；纵轴为相对峰值功率。
 
-![CTC 仿真接收频谱](docs/screenshots/ctc-spectrum.jpg)
+![CTC 仿真接收频谱](docs/screenshots/ctc-spectrum.png)
 
 **ACK 超时重传：**人为丢弃首个 ACK，第一轮超时、第二轮确认成功；接收端仅交付一个唯一帧。
 
-![ACK 丢失后的超时重传结果](docs/screenshots/ack-retry.jpg)
+![ACK 丢失后的超时重传结果](docs/screenshots/ack-retry.png)
+
+截图中的鼠标指针及光圈已清理。
 
 ## 本机已经完成的验证
 
@@ -141,3 +143,9 @@ Windows libiio 0.25 及依赖的本机副本位于 `native/`，Python 绑定固�
 - [Bluetooth Core Link Layer](https://www.bluetooth.com/wp-content/uploads/Files/Specification/HTML/Core-60/out/en/low-energy-controller/link-layer-specification.html)：后续 BLE 帧约束。
 
 当前代码是研究原型，不构成协议认证或芯片兼容性声明。
+
+## Star History
+
+[![Star History](docs/star-history.svg)](https://www.star-history.com/#lx8863/ctc-lab&Date)
+
+图表为 GitHub 实际数据快照，支持私有仓库，不向第三方图表服务提供访问令牌。可在 [Actions → Update Star History](https://github.com/lx8863/ctc-lab/actions/workflows/star-history.yml) 点击 **Run workflow** 更新；统计的是当前仍保留 Star 的用户及其标星时间，无法还原已取消的 Star。
